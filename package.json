@@ -1,0 +1,33 @@
+{
+    "author": "Pebble Technology",
+    "dependencies": {},
+    "keywords": [],
+    "name": "circle-obsorb",
+    "pebble": {
+        "displayName": "Circle Obsorb",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/BOMB",
+                    "name": "BOMB",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "f3408498-1466-4324-a834-35d60c5148b1",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "2.0.0"
+}
